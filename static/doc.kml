@@ -1,0 +1,2225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Γραφεία Κτηματογράφησης.kmz</name>
+	<open>1</open>
+	<Style id="sn_eurobank3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/eurobank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_peiraws_bank6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_grafeio3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grafeio3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grafeio</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grafeio3">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_peiraws_bank">
+		<IconStyle>
+			<scale>1.53636</scale>
+			<Icon>
+				<href>files/peiraws_bank_01.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ete26">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_eurobank">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/eurobank_01.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_peiraws_bank6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_peiraws_bank10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_peiraws_bank1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_alphabank">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/alphabank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_eurobank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_eurobank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_eurobank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grafeio5">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_peiraws_bank5">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ete23">
+		<IconStyle>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_eurobank">
+		<IconStyle>
+			<scale>1.53636</scale>
+			<Icon>
+				<href>files/eurobank_01.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grafeio">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_alphabank3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_alphabank4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_alphabank3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_peiraws_bank0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_eurobank1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_eurobank0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_eurobank3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_synet_thessaly">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>files/synet_thessaly.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ete22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ete27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ete24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_elta2">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/elta.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_elta3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/elta.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_attica0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_attica</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_attica</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grafeio0">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_peiraws_bank1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_peiraws_bank4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_peiraws_bank2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_peiraws_bank5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_alphabank5">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/alphabank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_grafeio">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grafeio</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grafeio1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_eurobank0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/eurobank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_alphabank3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/alphabank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grafeio">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_grafeio4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grafeio1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grafeio3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ete25">
+		<IconStyle>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_alphabank2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/alphabank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ete20">
+		<IconStyle>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_peiraws_bank0">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ete25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ete26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ete26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_elta2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/elta.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_elta">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/elta.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_eurobank1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/eurobank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_alphabank5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_alphabank10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_alphabank4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_elta2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_elta3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_elta0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grafeio00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grafeio0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grafeio0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_peiraws_bank3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_grafeio2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grafeio10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grafeio4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_peiraws_bank4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_peiraws_bank2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_peiraws_bank5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ete26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ete21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ete250</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_attica0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/attica.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_peiraws_bank">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/peiraws_bank_01.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_alphabank2">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/alphabank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_eurobank0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_eurobank10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_eurobank0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ete24">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_alphabank4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_alphabank3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_alphabank00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_peiraws_bank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_peiraws_bank6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_peiraws_bank0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_attica">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/attica.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_eurobank2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/eurobank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_alphabank">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/alphabank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_grafeio2">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_eurobank2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_eurobank2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_eurobank10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_peiraws_bank1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_elta3">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/elta.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_elta1">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/elta.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ete24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ete25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ete2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_attica">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/attica.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ete2">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_alphabank0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/alphabank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ete24">
+		<IconStyle>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_attica0">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/attica.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_alphabank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_alphabank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_alphabank2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ete21">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_peiraws_bank4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_attica">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_attica0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_attica0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_elta0">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/elta.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_alphabank2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_alphabank5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_alphabank1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_peiraws_bank2">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ete20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ete22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ete22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_eurobank2">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/eurobank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ete23">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_alphabank3">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/alphabank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_grafeio1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grafeio2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grafeio2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_alphabank1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/alphabank_01.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grafeio0">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_eurobank3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_eurobank3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_eurobank2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_eurobank10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/eurobank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ete2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ete2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ete25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_alphabank5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/alphabank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_elta1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/elta.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_alphabank1">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/alphabank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ete20">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ete22">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_alphabank0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_alphabank1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_alphabank0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grafeio0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grafeio5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grafeio5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_alphabank10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/alphabank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_elta0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/elta.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_alphabank0">
+		<IconStyle>
+			<scale>1.53636</scale>
+			<Icon>
+				<href>files/alphabank_01.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grafeio5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grafeio4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grafeio10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_peiraws_bank3">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_grafeio10">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ete2">
+		<IconStyle>
+			<Icon>
+				<href>files/ete2_01.jpg</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ete25">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>files/ete2_01.jpg</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_elta0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_elta0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_elta</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grafeio3">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_peiraws_bank10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ete22">
+		<IconStyle>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ete21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ete23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ete21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_alphabank00">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/alphabank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ete26">
+		<IconStyle>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_alphabank4">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/alphabank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ete21">
+		<IconStyle>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_peiraws_bank5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_peiraws_bank1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_peiraws_bank6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_eurobank0">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/eurobank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_peiraws_bank6">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_grafeio1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_peiraws_bank1">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grafeio1">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grafeio5">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_elta1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_elta2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_elta3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_synet_thessaly">
+		<IconStyle>
+			<scale>0.583333</scale>
+			<Icon>
+				<href>files/synet_thessaly.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_peiraws_bank2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grafeio10">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grafeio2">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_elta">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/elta.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_eurobank3">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/eurobank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_peiraws_bank3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_peiraws_bank3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_peiraws_bank4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_alphabank4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/alphabank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_eurobank1">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/eurobank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grafeio4">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ete23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ete24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ete23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_peiraws_bank2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_peiraws_bank5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_peiraws_bank3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ete250">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_peiraws_bank0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_peiraws_bank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_peiraws_bank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_eurobank10">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/eurobank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_elta">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_elta</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_elta1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_alphabank1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_alphabank0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_alphabank5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_synet_thessaly">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_synet_thessaly</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_synet_thessaly</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grafeio4">
+		<IconStyle>
+			<scale>1.77273</scale>
+			<Icon>
+				<href>files/grafeio.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_peiraws_bank00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_peiraws_bank0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_peiraws_bank10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_alphabank00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_alphabank2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_alphabank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_peiraws_bank10">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_peiraws_bank4">
+		<IconStyle>
+			<scale>1.51667</scale>
+			<Icon>
+				<href>files/peiraws_bank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_eurobank30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_eurobank1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_eurobank1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ete27">
+		<IconStyle>
+			<Icon>
+				<href>files/ete2.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ete210">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ete20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ete20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_elta3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_elta1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_elta2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Γραφεία Κτηματογράφησης</name>
+		<open>1</open>
+		<Placemark>
+			<name>Γρ. ΚΤ. ΚΑΣΤΟΡΙΑΣ</name>
+			<description>Λεωφ. Κύκνων 14, ΤΚ 52100, Καστοριά</description>
+			<LookAt>
+				<longitude>21.25708930307437</longitude>
+				<latitude>40.51931334787985</latitude>
+				<altitude>0</altitude>
+				<heading>1.579330858865663</heading>
+				<tilt>0</tilt>
+				<range>253.9341774519882</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grafeio5</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>21.25638095296949,40.51908737131092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eurobank Καστοριάς</name>
+			<description>Λεωφ. Κύκνων 14, ΤΚ 52100, Καστοριά</description>
+			<LookAt>
+				<longitude>21.25710548809771</longitude>
+				<latitude>40.51946459236963</latitude>
+				<altitude>0</altitude>
+				<heading>-2.69434953142482</heading>
+				<tilt>0</tilt>
+				<range>185.1857238368227</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_eurobank30</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>21.25692981420288,40.51958550942592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ΕΛ.ΤΑ.(Κ.Κ) Καστοριάς</name>
+			<open>1</open>
+			<description>Λεωφ. Κύκνων 4, Καστοριά 521 00</description>
+			<LookAt>
+				<longitude>21.25790230044571</longitude>
+				<latitude>40.51909740406245</latitude>
+				<altitude>0</altitude>
+				<heading>-2.693848684688019</heading>
+				<tilt>20.5731129949254</tilt>
+				<range>353.9374747454843</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_elta</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>21.25670273852262,40.51945063945544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Τράπεζα Πειραιώς Καστοριάς</name>
+			<open>1</open>
+			<description>Μεγ. Αλεξάνδρου &amp; Γράμμου 1, Καστοριά 521 00</description>
+			<LookAt>
+				<longitude>21.2620514322304</longitude>
+				<latitude>40.52189554682677</latitude>
+				<altitude>0</altitude>
+				<heading>-2.691194816345991</heading>
+				<tilt>16.39186889940689</tilt>
+				<range>321.4378958246635</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_peiraws_bank00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>21.26161147299927,40.5222024385193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Εθνική Τράπεζα Καστοριάς</name>
+			<open>1</open>
+			<description>11ης Νοεμβρίου 27, Καστοριά 521 00</description>
+			<LookAt>
+				<longitude>21.2629607036924</longitude>
+				<latitude>40.52228540095609</latitude>
+				<altitude>0</altitude>
+				<heading>-2.690604022083157</heading>
+				<tilt>16.39186889940689</tilt>
+				<range>321.4378958276563</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ete25</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>21.2627714672114,40.52268989323743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alpha Bank Καστοριάς</name>
+			<open>1</open>
+			<description>Αθ.Διάκου 42, ΤΚ 52100, Καστοριά</description>
+			<LookAt>
+				<longitude>21.25731958384256</longitude>
+				<latitude>40.51966922536259</latitude>
+				<altitude>0</altitude>
+				<heading>-2.694210430537607</heading>
+				<tilt>0</tilt>
+				<range>359.2716593014018</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_alphabank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>21.25746764054176,40.52061228477381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Γρ. Κτημ. ΞΑΝΘΗΣ</name>
+			<description>Τέρμα 4ης Οκτωβρίου, ΤΚ 67100, ΞΑΝΘΗ</description>
+			<LookAt>
+				<longitude>24.88150362927496</longitude>
+				<latitude>41.14193983900452</latitude>
+				<altitude>0</altitude>
+				<heading>-4.872652432919264</heading>
+				<tilt>0</tilt>
+				<range>224.3192770219648</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grafeio1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>24.88055423753454,41.14202151355151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Εθνική Τράπεζα Ξάνθης</name>
+			<open>1</open>
+			<description>40 Εκκλησιών 3, Ξάνθη 671 00</description>
+			<LookAt>
+				<longitude>24.88512755332878</longitude>
+				<latitude>41.13635696890449</latitude>
+				<altitude>0</altitude>
+				<heading>-4.873185644584826</heading>
+				<tilt>26.56186961580388</tilt>
+				<range>503.6825222377827</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ete22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>24.88573054642833,41.13617208426885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Εθνική Τράπεζα Ξάνθης (κατάστημα i-bank)</name>
+			<open>1</open>
+			<description>Θερμοπυλών 7, Ξάνθη 671 00</description>
+			<LookAt>
+				<longitude>24.88941219620861</longitude>
+				<latitude>41.13922942140138</latitude>
+				<altitude>0</altitude>
+				<heading>-4.867416512957745</heading>
+				<tilt>16.72906775741385</tilt>
+				<range>200.0664746990346</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ete22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>24.88914134479527,41.13933925775864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Εθνική Τράπεζα Ξάνθης</name>
+			<open>1</open>
+			<description>Κονίτσης 13, Ξάνθη 671 00</description>
+			<LookAt>
+				<longitude>24.88694884274136</longitude>
+				<latitude>41.14068487057019</latitude>
+				<altitude>0</altitude>
+				<heading>0.0007599117564798655</heading>
+				<tilt>18.50541273988594</tilt>
+				<range>356.8426549571896</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ete22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>24.88773823714341,41.14098059418915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Τράπεζα Πειραιώς Ξάνθης</name>
+			<description>Θερμοπυλών 2, Ξάνθη 671 00</description>
+			<LookAt>
+				<longitude>24.88929320927211</longitude>
+				<latitude>41.13911755286839</latitude>
+				<altitude>0</altitude>
+				<heading>-4.867513611963696</heading>
+				<tilt>13.09278685886075</tilt>
+				<range>291.2609498450704</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_peiraws_bank3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>24.88904437712798,41.13915783318618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Τράπεζα Αττικής Ξάνθης</name>
+			<description>28ης Οκτωβρίου 1, Ξάνθη 671 00</description>
+			<LookAt>
+				<longitude>24.8887396321525</longitude>
+				<latitude>41.13899915526087</latitude>
+				<altitude>0</altitude>
+				<heading>0.001880857015135239</heading>
+				<tilt>24.36516558624273</tilt>
+				<range>263.4582596424353</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_attica</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>24.88794728835581,41.13901448536983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alpha Bank Ξάνθης</name>
+			<description>Λευκίππου 1, Ξάνθη 671 00</description>
+			<LookAt>
+				<longitude>24.89255477303322</longitude>
+				<latitude>41.13215678022554</latitude>
+				<altitude>0</altitude>
+				<heading>0.004444749893092925</heading>
+				<tilt>26.2091129100186</tilt>
+				<range>550.2731634690931</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_alphabank1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>24.89162594088588,41.13219800079283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eurobank Ξάνθης</name>
+			<description>Λοχαγού Βόγδου Μιχαήλ 14, Ξάνθη 671 00</description>
+			<LookAt>
+				<longitude>24.88622114954956</longitude>
+				<latitude>41.1390794766843</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006208590462985328</heading>
+				<tilt>29.13803783631715</tilt>
+				<range>206.6954586829588</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_eurobank3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>24.8862248780823,41.13895308306587,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ΕΛ.ΤΑ. Ξάνθης</name>
+			<description>Ανθυπασπιστού Μιλτιάδη Γεωργίου 18, Ξάνθη 671 00</description>
+			<LookAt>
+				<longitude>24.88668259927041</longitude>
+				<latitude>41.13922591268445</latitude>
+				<altitude>0</altitude>
+				<heading>0.0009244435399444362</heading>
+				<tilt>29.13803783631716</tilt>
+				<range>206.6954586841129</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_elta2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>24.88679544625685,41.13912617087775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Γρ.Κτ - ΠΟΛΥΓΥΡΟΥ</name>
+			<description>Μακεδονίας και 22ας Απριλίου, ΤΚ 63100, Πολύγυρος</description>
+			<LookAt>
+				<longitude>23.44367421663814</longitude>
+				<latitude>40.38096804527631</latitude>
+				<altitude>0</altitude>
+				<heading>5.887475666704945</heading>
+				<tilt>0</tilt>
+				<range>271.4104832536057</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grafeio2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.44317071539254,40.38094980269985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alpha Bank Πολυγύρου</name>
+			<description>Ασκληπιού 26, Πολύγυρος 631 00</description>
+			<LookAt>
+				<longitude>23.44433569913026</longitude>
+				<latitude>40.38102200562577</latitude>
+				<altitude>0</altitude>
+				<heading>5.887857671081369</heading>
+				<tilt>21.12107891386638</tilt>
+				<range>511.9868869815272</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_alphabank5</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.44433749589328,40.38214284954206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ΕΛ.ΤΑ. Πολυγύρου</name>
+			<description>Κωνσταντινουπόλεως 5, Πολύγυρος 631 00</description>
+			<Camera>
+				<longitude>23.44093897826476</longitude>
+				<latitude>40.37942678906791</latitude>
+				<altitude>338.9198524045309</altitude>
+				<heading>4.520747692543024</heading>
+				<tilt>18.88053113649007</tilt>
+				<roll>0.9521110477835633</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_elta2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.44164823466352,40.38022160141395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Τράπεζα Πειραιώς Πολυγύρου</name>
+			<description>Χαρ. Τρικούπη 10, Πολύγυρος 631 00</description>
+			<LookAt>
+				<longitude>23.44229048763091</longitude>
+				<latitude>40.37893242613507</latitude>
+				<altitude>0</altitude>
+				<heading>5.886502805947765</heading>
+				<tilt>28.79449054824968</tilt>
+				<range>251.5045568611514</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_peiraws_bank2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.44186066211968,40.37896720175598,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Εθνική Τράπεζα Πολυγύρου</name>
+			<description>Politechniou 40, Poligiros 631 00</description>
+			<LookAt>
+				<longitude>23.44101657759888</longitude>
+				<latitude>40.3785407185519</latitude>
+				<altitude>0</altitude>
+				<heading>5.885681336179241</heading>
+				<tilt>30.00100179685116</tilt>
+				<range>223.0331207876552</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ete24</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.44065225554712,40.3784431427799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Γρ. Κτ. ΔΡΑΜΑΣ</name>
+			<description>Κοζάνης 3 (πρώην ΟΑΕΔ) ), ΚΤ 66100, Δράμα</description>
+			<LookAt>
+				<longitude>24.14563112648147</longitude>
+				<latitude>41.14646833768505</latitude>
+				<altitude>0</altitude>
+				<heading>0.03524561228268847</heading>
+				<tilt>0</tilt>
+				<range>204.2104940188036</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grafeio00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>24.14517849160952,41.1464641996543,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alpha Bank Δράμας</name>
+			<description>Άρμεν 5, Δράμα 661 00</description>
+			<LookAt>
+				<longitude>24.14734449044375</longitude>
+				<latitude>41.15054369935874</latitude>
+				<altitude>0</altitude>
+				<heading>-0.000768009049978895</heading>
+				<tilt>15.38918512914946</tilt>
+				<range>259.1064096948408</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_alphabank2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>24.14687636758987,41.15069666670863,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Εθνική Τράπεζα Δράμας</name>
+			<description>Εθνικής, Επαναστάσεως 1821 4, Δράμα 661 33</description>
+			<LookAt>
+				<longitude>24.14794917858323</longitude>
+				<latitude>41.14575439650012</latitude>
+				<altitude>0</altitude>
+				<heading>0.03688314900375586</heading>
+				<tilt>22.36477910529366</tilt>
+				<range>388.1434169321957</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ete210</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>24.14771936083554,41.1456595108643,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eurobank Δράμας</name>
+			<description>Κάβδα 6, Δράμα 661 00</description>
+			<LookAt>
+				<longitude>24.14867075713978</longitude>
+				<latitude>41.14673200303633</latitude>
+				<altitude>0</altitude>
+				<heading>0.03738601463069705</heading>
+				<tilt>28.64473806012632</tilt>
+				<range>191.945563009603</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_eurobank0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>24.1483062639654,41.1469640076393,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Τράπεζα Πειραιώς Δράμας</name>
+			<description>Κάβδα 8-10, Δράμα 661 00</description>
+			<LookAt>
+				<longitude>24.14867075713978</longitude>
+				<latitude>41.14673200303633</latitude>
+				<altitude>0</altitude>
+				<heading>0.03738601463069705</heading>
+				<tilt>28.64473806012632</tilt>
+				<range>191.945563009603</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_peiraws_bank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>24.14866141142527,41.14696383280054,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ΕΛ.ΤΑ. Δράμας ( Κ.Κ.)</name>
+			<description>28ης Οκτωβρίου 5, Δράμα 661 00</description>
+			<LookAt>
+				<longitude>24.14876504132044</longitude>
+				<latitude>41.14657973592508</latitude>
+				<altitude>0</altitude>
+				<heading>0.03744805260089788</heading>
+				<tilt>28.64473806012631</tilt>
+				<range>191.9455630097635</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_elta1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>24.14851764084511,41.14655160745026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Γρ. Κτημ. - ΦΛΩΡΙΝΑΣ</name>
+			<description>Πλατεία Μ. Αλεξάνδρου , ΤΚ 53100, Φλώρινα</description>
+			<LookAt>
+				<longitude>21.41545126162446</longitude>
+				<latitude>40.78301771301396</latitude>
+				<altitude>0</altitude>
+				<heading>3.50669738621667</heading>
+				<tilt>0</tilt>
+				<range>308.6100648057177</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grafeio0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>21.4151855575413,40.78310479322046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ΕΛ.ΤΑ. Φλώρινας</name>
+			<description>Λοχαγου, Μόδη 13, Φλώρινα 531 00</description>
+			<LookAt>
+				<longitude>21.40506970010557</longitude>
+				<latitude>40.78064548409555</latitude>
+				<altitude>0</altitude>
+				<heading>-0.006586366698036097</heading>
+				<tilt>21.2659241356761</tilt>
+				<range>232.1627561156207</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_elta3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>21.40457713460352,40.78060280856164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EΘνική Τράπεζα Φλώρινας</name>
+			<description>Μεγ. Αλεξάνδρου 28, Φλώρινα 531 00</description>
+			<LookAt>
+				<longitude>21.40716870020538</longitude>
+				<latitude>40.77925555874899</latitude>
+				<altitude>0</altitude>
+				<heading>-0.005270797828654519</heading>
+				<tilt>16.82175844223354</tilt>
+				<range>328.6361942166434</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ete20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>21.40579260576818,40.77915617022924,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Τράπεζα Πειραιώς Φλώρινας</name>
+			<description>Νικ. Χάσου 26, Φλώρινα 531 00</description>
+			<LookAt>
+				<longitude>21.40802863240107</longitude>
+				<latitude>40.78021190253978</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004709102840630934</heading>
+				<tilt>16.82157208810648</tilt>
+				<range>256.9524337337678</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_peiraws_bank6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>21.40696250372121,40.78014905161957,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alpha Bank Φλώρινας</name>
+			<description>Στεφάνου Δραγούμη 15, Φλώρινα 531 00</description>
+			<LookAt>
+				<longitude>21.4081895289201</longitude>
+				<latitude>40.78035200513013</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004604010700309567</heading>
+				<tilt>16.82157208810648</tilt>
+				<range>256.9524337323167</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_alphabank00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>21.40727696687343,40.78029288596213,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eurobank Φλώρινας</name>
+			<description>Στεφάνου Δραγούμη 17, Φλώρινα 531 00</description>
+			<LookAt>
+				<longitude>21.4081895289201</longitude>
+				<latitude>40.78035200513013</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004604010700309567</heading>
+				<tilt>16.82157208810648</tilt>
+				<range>256.9524337323167</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_eurobank1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>21.40726171510043,40.78040423977178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Γρ. Κτημ - ΚΑΣΣΑΝΔΡΕΙΑΣ</name>
+			<description>Πεζόδρομος 28ης Οκτωβρίου, απέναντι από την Πειραιώς</description>
+			<LookAt>
+				<longitude>23.41251906771311</longitude>
+				<latitude>40.04918835411803</latitude>
+				<altitude>0</altitude>
+				<heading>0.6561117034590325</heading>
+				<tilt>0</tilt>
+				<range>194.5242611418034</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grafeio3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.41247907849091,40.0492668138699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Τράπεζα Πειριαώς Κασσανδρείας</name>
+			<description>Κασσανδρεία 630 77</description>
+			<LookAt>
+				<longitude>23.4129048720925</longitude>
+				<latitude>40.0492599439046</latitude>
+				<altitude>0</altitude>
+				<heading>0.6564415064956737</heading>
+				<tilt>20.6351511013435</tilt>
+				<range>176.4652742598794</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_peiraws_bank5</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.41237437393567,40.04937820548066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Εθνική Τράπεζα Κασσανδρείας</name>
+			<description>Επαρ.Οδ. Παλιούριου-Άφυτου 41, Κασσανδρεία 630 77</description>
+			<LookAt>
+				<longitude>23.41270864645464</longitude>
+				<latitude>40.05064897885098</latitude>
+				<altitude>0</altitude>
+				<heading>16.21402219630465</heading>
+				<tilt>28.05370515696755</tilt>
+				<range>280.3998542343984</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ete21</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.41179880546387,40.05093782293357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alpha Bank Κασσανδρείας</name>
+			<description>28ης Οκτωβρίου, Κασσανδρεία 630 77</description>
+			<LookAt>
+				<longitude>23.41379452826349</longitude>
+				<latitude>40.04983748617683</latitude>
+				<altitude>0</altitude>
+				<heading>0.6570132463038878</heading>
+				<tilt>20.58138381284806</tilt>
+				<range>216.3971003399074</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_alphabank3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.41362023945362,40.05004049757238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Γρ.ΚΤ.ΒΟΛΟΣ</name>
+			<description>Ιάσωνος 36, ΤΚ 38333, ΒΟΛΟΣ</description>
+			<LookAt>
+				<longitude>22.94396509986796</longitude>
+				<latitude>39.36109333027832</latitude>
+				<altitude>0</altitude>
+				<heading>7.530659988381739e-006</heading>
+				<tilt>15.74718003456925</tilt>
+				<range>449.1068638144238</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grafeio4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.94387548735612,39.36104097606218,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Συνεταιριστική Τράπεζα Θεσσαλίας Βόλου</name>
+			<description>Ελ. Βενιζέλου 2, Βόλος 382 21</description>
+			<LookAt>
+				<longitude>22.94584857994491</longitude>
+				<latitude>39.36023785213916</latitude>
+				<altitude>0</altitude>
+				<heading>0.001227410861701411</heading>
+				<tilt>27.32208226038</tilt>
+				<range>228.4678481056711</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_synet_thessaly</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.94505133626634,39.3600414888466,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Τράπεζα Πειραιώς Βόλου</name>
+			<description>Ιάσονος 41, Βόλος 383 33</description>
+			<LookAt>
+				<longitude>22.94433492124169</longitude>
+				<latitude>39.36119010080996</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002481435470077173</heading>
+				<tilt>21.10793741618346</tilt>
+				<range>318.4038146287388</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_peiraws_bank1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.94426913066566,39.36108697807545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Τράπεζα Πειραιώς Βόλου</name>
+			<description>Ιάσονος 66-70 &amp; Κ. Καρτάλη, Βόλος 382 21</description>
+			<LookAt>
+				<longitude>22.94659168149434</longitude>
+				<latitude>39.36014667389836</latitude>
+				<altitude>0</altitude>
+				<heading>-2.222140427424203</heading>
+				<tilt>10.76300950394899</tilt>
+				<range>218.04470940554</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_peiraws_bank1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.94601606017725,39.35998526286978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Εθνική Τράπεζα Βόλου</name>
+			<description>Ιάσονος 50, Βόλος 383 33</description>
+			<LookAt>
+				<longitude>22.94491068363398</longitude>
+				<latitude>39.36083345216083</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006132938479174055</heading>
+				<tilt>21.10793741618342</tilt>
+				<range>318.4038146311308</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ete23</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.94454005977847,39.36064470289887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alpha Bank Βόλου</name>
+			<description>Ιάσονος 60, Βόλος 382 21</description>
+			<LookAt>
+				<longitude>22.94569459335315</longitude>
+				<latitude>39.36031341806045</latitude>
+				<altitude>0</altitude>
+				<heading>0.001110446628579427</heading>
+				<tilt>21.10793741618349</tilt>
+				<range>318.4038146291908</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_alphabank4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.94536556091102,39.36028113012157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Τράπεζα Αττικής Βόλου</name>
+			<description>Δημητριάδος 227, Βόλος 382 21</description>
+			<LookAt>
+				<longitude>22.95008059271969</longitude>
+				<latitude>39.35922789712034</latitude>
+				<altitude>0</altitude>
+				<heading>0.003913958306369137</heading>
+				<tilt>27.61268149197081</tilt>
+				<range>226.9322826520387</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_attica0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.94958905402424,39.3591370268738,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eurobank Βόλου</name>
+			<description>Ιάσονος 69, Βόλος 382 21</description>
+			<LookAt>
+				<longitude>22.94630628074553</longitude>
+				<latitude>39.36064821071735</latitude>
+				<altitude>0</altitude>
+				<heading>-7.01093022568631e-005</heading>
+				<tilt>25.11472646917472</tilt>
+				<range>291.726928491307</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_eurobank2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.94550912564226,39.36051185392161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Τράπεζα Πειραιώς Βόλου</name>
+			<description>Ιάσονος 81, Βόλος 382 21</description>
+			<LookAt>
+				<longitude>22.94658687861829</longitude>
+				<latitude>39.36011973136704</latitude>
+				<altitude>0</altitude>
+				<heading>-2.222143472491896</heading>
+				<tilt>10.76300950394899</tilt>
+				<range>218.0447094044302</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_peiraws_bank4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.94647428450771,39.36007664572126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Εθνική Τράπεζα Βόλου</name>
+			<description>Ιάσονος 93, Βόλος 382 21</description>
+			<LookAt>
+				<longitude>22.9473973253727</longitude>
+				<latitude>39.36006252900761</latitude>
+				<altitude>0</altitude>
+				<heading>-2.221473659537212</heading>
+				<tilt>23.24098099952545</tilt>
+				<range>238.4379911974457</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ete26</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.94699406999904,39.35983205861098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ΕΛ.ΤΑ. Βόλου</name>
+			<description>Δημητριάδος 209, Βόλος 382 21</description>
+			<LookAt>
+				<longitude>22.94943159030108</longitude>
+				<latitude>39.35973373254885</latitude>
+				<altitude>0</altitude>
+				<heading>-2.220189042527491</heading>
+				<tilt>26.8270292365265</tilt>
+				<range>318.6471870474671</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_elta0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.94864082414984,39.35960979134259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Γρ.ΚΤ.(ΧΑΛΚΙΔΙΚΗΣ-ΔΡΑΜΑΣ-ΞΑΝΘΗΣ-ΚΑΣΤΟΡΙΑΣ-ΦΛΩΡΙΝΑΣ)</name>
+			<description>ΣΑΡΑΦΗ 48Β &amp; 48Γ, ΤΚ 55135 - ΦΟΙΝΙΚΑΣ</description>
+			<LookAt>
+				<longitude>22.96868548304667</longitude>
+				<latitude>40.56950675361312</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001546655181493015</heading>
+				<tilt>16.51812683551497</tilt>
+				<range>408.1518773668196</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grafeio</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.96895258138023,40.56944117858171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eurobank Καλαμαριάς</name>
+			<description>Σμύρνης &amp; Βρυούλων 41, Καλαμαριά 551 32</description>
+			<Camera>
+				<longitude>22.95836612955948</longitude>
+				<latitude>40.57083693125285</latitude>
+				<altitude>220.3784201236435</altitude>
+				<heading>29.25450002532709</heading>
+				<tilt>8.185872185890487</tilt>
+				<roll>1.632239397159654</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_eurobank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.95872751732878,40.57127517869888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Τράπεζα Πειραιώς Καλαμαριάς</name>
+			<description>Σμύρνης 31 &amp; Πλατείας Ύδρας 3, Καλαμαριά 551 32</description>
+			<Camera>
+				<longitude>22.95725295063566</longitude>
+				<latitude>40.57187008163862</latitude>
+				<altitude>135.8358031975854</altitude>
+				<heading>8.056147303257795</heading>
+				<tilt>28.28220684273319</tilt>
+				<roll>2.33701073915098</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_peiraws_bank0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.95731877465689,40.57254969574495,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Εθνική Τράπεζα Καλαμαριάς</name>
+			<description>Ανδρούτσου 30,  Πλατεία Ύδρας,, Καλαμαριά 551 32</description>
+			<Camera>
+				<longitude>22.95725295063566</longitude>
+				<latitude>40.57187008163862</latitude>
+				<altitude>135.8358031975854</altitude>
+				<heading>8.056147303257795</heading>
+				<tilt>28.28220684273319</tilt>
+				<roll>2.33701073915098</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ete2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.95744765483736,40.57268867097216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alpha Bank Καλαμαριάς</name>
+			<description>Ανδρούτσου 33, Καλαμαριά 551 32</description>
+			<Camera>
+				<longitude>22.95727542151757</longitude>
+				<latitude>40.5719294319096</latitude>
+				<altitude>135.8358031947529</altitude>
+				<heading>8.056161918450712</heading>
+				<tilt>28.28220684273314</tilt>
+				<roll>2.337010739150812</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_alphabank0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.95778226998161,40.57282548678926,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
